@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNIVER\\anul3\\sem2\\C#\\Singleton\\Singleton.csproj": {}
+    "D:\\UNIVER\\anul3\\sem2\\TMPS\\lab1\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "D:\\UNIVER\\anul3\\sem2\\C#\\Singleton\\Singleton.csproj": {
+    "D:\\UNIVER\\anul3\\sem2\\TMPS\\lab1\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNIVER\\anul3\\sem2\\C#\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "D:\\UNIVER\\anul3\\sem2\\TMPS\\lab1\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "D:\\UNIVER\\anul3\\sem2\\C#\\Singleton\\Singleton.csproj",
+        "projectPath": "D:\\UNIVER\\anul3\\sem2\\TMPS\\lab1\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\Dorina\\.nuget\\packages\\",
-        "outputPath": "D:\\UNIVER\\anul3\\sem2\\C#\\Singleton\\obj\\",
+        "outputPath": "D:\\UNIVER\\anul3\\sem2\\TMPS\\lab1\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dorina\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }

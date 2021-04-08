@@ -30,7 +30,7 @@ namespace Singleton
         }
         public void sayHi(string name)
         {
-            Console.WriteLine($"welcome, {name}!");
+            Console.WriteLine("welcome, " + name + "!");
         }
     }
 }

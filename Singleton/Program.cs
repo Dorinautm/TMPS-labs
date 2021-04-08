@@ -7,8 +7,8 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-            Greeting.GetInstance().Name = "boo";
-            Greeting.GetInstance().sayHi("boo");
+            Greeting.GetInstance().Name = "dude";
+            Greeting.GetInstance().sayHi("dude");
 
         }
     }
