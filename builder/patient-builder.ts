@@ -2,16 +2,18 @@ import { Patient } from './patient';
 
 export class PatientBuilder {
 
+    //declaram atributele obiectului instantiat
     private  _room: string;
     private readonly _name: string
     private _desease: string;
     private _guardianName: string;
     private _guardianPhone: number = 784847473;
 
+    //fieldurile necesare la crearea obiect
     constructor(name: string) {
         this._name = name;
     }
-    
+    //settere
     setRoom(room: string) {
         this._room = room;
         return this;
